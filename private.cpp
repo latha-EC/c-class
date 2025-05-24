@@ -14,5 +14,5 @@ class person{
 int main(){
     person p1;
     p1.hello();
-   
+   //p1.hello2(); it is a private method that cannot be accessed.
 }
